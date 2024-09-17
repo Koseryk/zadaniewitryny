@@ -20,16 +20,16 @@ th, td {
     color: white;
 }
 
-.col-width-100 {
-    width: 100px;
-}
-
-.col-width-400 {
-    width: 400px;
+.col-width-50 {
+    width: 50px;
 }
 
 .col-width-200 {
     width: 200px;
+}
+
+.col-width-100 {
+    width: 100px;
 }
 
 
