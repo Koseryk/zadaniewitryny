@@ -1,4 +1,3 @@
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -21,6 +20,19 @@ th, td {
     color: white;
 }
 
+.col-width-100 {
+    width: 100px;
+}
+
+.col-width-400 {
+    width: 400px;
+}
+
+.col-width-200 {
+    width: 200px;
+}
+
+
 .align-left-top {
     text-align: left;
     vertical-align: top;
@@ -35,6 +47,7 @@ th, td {
     text-align: right;
     vertical-align: bottom;
 }
+
 
 .table2 th {
     background-color: orange;
@@ -60,6 +73,7 @@ th, td {
     font-style: italic;
     margin: 3px;
 }
+
 
 .caption1 {
     caption-side: bottom;
